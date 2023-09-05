@@ -1,3 +1,3 @@
 git add .
-git commit -m "studyed"
+git commit -m "$(date)"
 git push origin master
